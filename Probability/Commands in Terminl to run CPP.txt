@@ -1,0 +1,2 @@
+g++ main.cpp -o greeks -O2 -std=c++17
+./greeks
