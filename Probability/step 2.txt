@@ -1,1 +1,0 @@
-step 2 : Writing code and running other parts of the assignment before writing code for output to insert in CSVs, I put this code in folder step 2.
