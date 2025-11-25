@@ -1,0 +1,1 @@
+Run updated InverseCumulativeNormal for rational formula and see the result , the code is in folder step 2.

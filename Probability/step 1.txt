@@ -1,0 +1,1 @@
+Run Current InverseCumulativeNormal and see the result , the code is in folder step 1.

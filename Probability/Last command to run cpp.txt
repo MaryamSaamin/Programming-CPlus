@@ -1,0 +1,9 @@
+
+python fit_export_icn.py > coeffs.txt  
+
+g++ -std=c++17 -O3 -march=native -DICN_ENABLE_HALLEY_REFINEMENT main_tests.cpp -o main_tests
+
+./main_tests
+
+
+
